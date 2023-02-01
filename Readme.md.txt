@@ -1,0 +1,1 @@
+Linha de aprendizado e exercicios com linguagem Python
